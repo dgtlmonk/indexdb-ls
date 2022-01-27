@@ -44,9 +44,9 @@ export default defineConfig(({ command, mode }) => {
           "apple-touch-icon.png",
         ],
         manifest: {
-          name: "Perkd Merchant App",
-          short_name: "Perkd Merchant",
-          description: "Perkd Merchant App",
+          name: "Experiment 007",
+          short_name: "Experiment 007",
+          description: "Experiment with IndexedDB",
           theme_color: "#ffffff",
           icons: [
             {
